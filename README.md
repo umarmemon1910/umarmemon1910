@@ -9,6 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Programming is my first love
 
-![https://github-readme-stats.vercel.app/api?username=umarmemon1910&show_icons=true&theme=dark]
-
 <img src="https://github-readme-stats.vercel.app/api?username=umarmemon1910&show_icons=true&theme=dark" />
