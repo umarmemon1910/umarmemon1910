@@ -1,4 +1,4 @@
-### Hello, I am Umar Memon! 👋
+### Hello, I am Umar Memon - Full Stack Web & Mobile Developer 👋
 
 - 🔭 I’m currently working on Advanced Javascript/Typescript Game Development
 - 🌱 I’m currently learning VueJS, ReactJS Javascript Framework
@@ -6,17 +6,12 @@
 - 🤔 I’m looking for help with Ionic Framework
 - 💬 Ask me about Ionic, Hybrid Mobile App Development, Javascript, Typescript, Angular
 - 📫 How to reach me: umarmemon.developer@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Programming is my first love
+- I am a Full Stack Web & Mobile Developer currently located in Pune India
+- I have 6 years and 2 months of experiennce in software development
+- Knowledge of Mobile Application development, web api, Web Application
+- Currently associated with the Zensar Technologies as a Sr. Software Engineer since December 2020
 
 <img src="https://github-readme-stats.vercel.app/api?username=umarmemon1910&show_icons=true&theme=dark" />
-
-## Umar Memon - Full Stack Web & Mobile Developer
-
-- I am a Full Stack Web & Mobile Developer currently located in Pune India
--	I have 6 years and 2 months of experiennce in software development
--	Knowledge of Mobile Application development, web api, Web Application
--	Currently associated with the Zensar Technologies as a Sr. Software Engineer since December 2020
 
 ## Techinical Skill Stack
 ### Front End
