@@ -15,7 +15,7 @@
 
 ## Techinical Skill Stack
 ### Front End
-`HTML`  `CSS`  `SCSS`  `JavaScript`  `Typescript`  `Angular`  `Ionic`  `Android Platform`  `IOS Platform `  `JQuery`  `Bootstrap` 
+`HTML`   `CSS`   `SCSS`   `JavaScript`   `Typescript`   `Angular`   `Ionic`   `Android Platform`   `IOS Platform `  `JQuery`  `Bootstrap` 
 ### Back End
 `.Net MVC` `MS SQL Server` `MySQL` 
 ### Tools & Deployment
